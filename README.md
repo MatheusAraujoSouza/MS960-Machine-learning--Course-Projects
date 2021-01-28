@@ -1,5 +1,5 @@
 # MS960-Projetos-do-curso-
-Projeto do curso ms960(Tópicos Especiais em Processamento de Imagens).
+Projetos do curso ms960(Tópicos Especiais em Processamento de Imagens).
 
 **Projeto I**
 
