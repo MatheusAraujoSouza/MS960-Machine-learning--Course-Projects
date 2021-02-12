@@ -1,4 +1,4 @@
-# MS960-Projetos-do-curso-
+# MS960-Machine learning-Projetos-do-curso-
 Projetos do curso ms960(Tópicos Especiais em Processamento de Imagens).
 
 **Projeto I**
@@ -26,7 +26,7 @@ utilizando a linguagem python.
 
 
 
-# MS960-Course-Projects-
+# MS960-Machine learning-Course-Projects-
 Course projects ms960 (Special Topics in Image Processing).
 
 ** Project I **
