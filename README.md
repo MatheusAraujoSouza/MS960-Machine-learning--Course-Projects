@@ -16,6 +16,7 @@ nosso código para várias camadas internas, além disso também implementamos o
 bem para os exemplos de teste porem tem resultados muito custosos computacionalmente.
 
 **Projeto III**
+
 Esse projeto propõe um estudo na aplicação de modelos em dois problemas. O primeiro seria a aplicação de uma SVM em um problema de classificação de dados e o outro seria a 
 aplicação do PCA em um problema de reconhecimento facial. Para ambos os resultados, foi obtido um excelente desempenho para classificação desses dados.
 
