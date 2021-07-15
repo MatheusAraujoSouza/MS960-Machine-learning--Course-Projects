@@ -10,6 +10,7 @@ curva polinomial, mais precisamente para o polinômio de grau 10, é a que melho
 Já na segunda parte, foi criado um modelo de regressão multi-classe para classificar dígitos `a mão dos números 1 à 10 e verificar a taxa de acerto do modelo durante a classificação
 
 **Projeto II**
+
 Nosso projeto visa o estudo dos algoritmos e implementação dos métodos deredes neurais e suas aplicações para reconhecimento de conjuntos do modelo
 MNIST, obtivemos vários resultados em diferentes aspectos, e podemos então escolher no final o melhor modelo o gradiente descente, também adaptamos
 nosso código para várias camadas internas, além disso também implementamos outro método de descida o Gradiente conjugado, método esse que se saiu muito
@@ -39,12 +40,14 @@ polynomial curve, more precisely for the 10 degree polynomial, is the one that b
 In the second part, a multi-class regression model was created to classify digits by hand from numbers 1 to 10 and check the model's accuracy rate during classification
 
 **Project II**
+
 Our project aims to study the algorithms and implement the neural network methods and their applications for recognition of model sets
 MNIST, we obtained several results in different aspects, and then we can choose at the end the best model the gradient gradient, we also adapt
 our code for several internal layers, in addition we also implemented another descending method the Gradient conjugate, a method that came out very
 well for the test examples however it has very computationally costly results.
 
 **Project III**
+
 This project proposes a study on the application of models in two problems. The first would be the application of an SVM in a data classification problem and the other would be the
 application of PCA in a facial recognition problem. For both results, an excellent performance was obtained for the classification of these data.
 
